@@ -1,2 +1,1 @@
-# Heroku_demo_Used_car_price_prediction
-Heroku_demo_Used_car_price_prediction007
+# car-selling-price-prediction
